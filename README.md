@@ -1,10 +1,12 @@
 # Campus_ride_share
-I am a campus ride share webside
+A full-stack web application designed...  
+
+
 
 <h2>Contact us ✉ </h2>
-Developed by: Naresh kumar <br>
+Developed by: Saurabh Yogi <br>
 Work: Backend with MERN Stack Development, Database with MongoDB <br>
-Contact_Info: <a href="mailto:seervinaresh620@gmail.com">Email:seervinaresh620@gmail.com</a>
+Contact_Info: <a href="mailto:saurabhyogi233@gmail.com">Email:saurabhyogi233@gmail.com</a>
 
 <h1><u>Campus Ride Share 🚗🎓</u></h1>
 <h2>Website_url:- https://campusrideshare-1.onrender.com/</h2>
@@ -78,7 +80,7 @@ Contact_Info: <a href="mailto:seervinaresh620@gmail.com">Email:seervinaresh620@g
 <h2><u>🧱 Development / Technologies Used</u></h2>
 
 <p><b>Frontend:</b> HTML, CSS, JavaScript, Bootstrap</p>
-<p><b>Backend:</b> Django (Python)</p>
+<p><b>Backend:</b> nodejs</p>
 <p><b>Database:</b> SQLite / MySQL</p>
 <p><b>Authentication:</b> Email-based verification</p>
 <p><b>Version Control:</b> Git & GitHub</p>
